@@ -161,11 +161,10 @@ end
 end
 
 def play
-<<<<<<< HEAD
+
   puts "Welcome to Tic Tac Toe!"
   display_board
-=======
->>>>>>> 7e089d86085b62de3340a1550d5e6b6c4936fe08
+
   until over? == true
     turn
   end
