@@ -4,9 +4,5 @@ require_relative '../lib/tic_tac_toe.rb'
 
 a = TicTacToe.new
 
-<<<<<<< HEAD
 a.play
-=======
-until a.over
-a.turn
->>>>>>> 7e089d86085b62de3340a1550d5e6b6c4936fe08
+
